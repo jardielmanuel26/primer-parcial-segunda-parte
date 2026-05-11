@@ -1,1 +1,3 @@
-# segunda-parte-primer-parcial
+Jardiel Manuel Yujra Salazar
+Primer Parcial-Informática General
+Artes Multimediales- UNA
