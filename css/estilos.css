@@ -1,2 +1,34 @@
 /*Estilos para la segunda parte del primer parcial. Artista: Rafael Lozano-Hemmer*/
+
+/*Imagen de fondo de las tres páginas*/
+html {
+    font-family: "Barlow", sans-serif;
+}
+
+/*Imagen de fondo de las tres páginas*/
 body {
+    background-image: url("../img/fondo.png");
+}
+
+/*Menú de navegación en horizontal*/
+nav li {
+    display: inline-block;
+}
+
+/*Pseudo-clases para los enlaces del menú de navegación*/
+/*Link no visitado*/
+a:link {
+    color: blue;
+}
+/*Link visitado*/
+a:visited {
+    color: chartreuse;
+}
+/*mouse over*/
+a:hover {
+    color: brown;
+} 
+/*Seleccionado*/
+a:active{
+    color: indigo;
+}
